@@ -8,13 +8,11 @@ I mostly break and patch things here 😁
 
 ### About Me:
 - 🔭 I’m currently working at Altimetrik
-- 🌱 I really like Rescript 
+- 🌱 I work on ReactJs, NodeJs and Javascript.
 - 😄 Pronouns: He/him
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love Functional Programming and building cool stuffs.
+- 💻 &nbsp; I love Programming and building cool stuffs.
 - 📰 &nbsp; Reading tech blogs whenever possible.
-- 🎮 &nbsp; I am slightly obsessed with Starfield and Detroit:Become Human.
 
-- ### My Stats
