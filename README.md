@@ -9,7 +9,7 @@ I mostly break and patch things here 😁
 ### About Me:
 - 🔭 I’m currently working at Altimetrik
 - 🌱 I really like Rescript 
-- 😄 Pronouns: He/his
+- 😄 Pronouns: He/him
 
 ### My Absolute Favorites:
 
